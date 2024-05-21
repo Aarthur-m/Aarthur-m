@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aarthur-m](https://github.com/Aarthur-m)
 
-- 📫 How to reach me **isaquearthur77@gmail.com**
+- 📫 How to reach me **isaquedev77@gmail.com**
 
 - ⚡ Fun fact **"See you Space Cowboy"**
 
